@@ -90,11 +90,11 @@ python chatbot.py
 
 ## Sample Output
 
---
+---
 
 <img width="420" height="197" alt="output" src="https://github.com/user-attachments/assets/ea0a3f9d-8708-41fe-978a-b2a38b26fd5d" />
 
---
+---
 
 ## 💡 Sample Interaction
 
