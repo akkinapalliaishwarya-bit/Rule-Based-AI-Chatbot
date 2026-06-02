@@ -45,7 +45,7 @@ This project focuses on building a strong foundation in **control flow, logical 
 rule-based-chatbot/
 │── chatbot.py        # Main chatbot program
 │── README.md         # Project documentation
-│── output.png        # Sample output screenshot
+│── output.png(optional)       # Sample output screenshot
 ```
 
 ---
@@ -102,12 +102,6 @@ You: what is your name
 You: bye  
 🤖 Chatbot: Goodbye! 👋  
 ```
-
----
-
-## 📸 Output
-
-(Add your chatbot output screenshot here)
 
 ---
 
